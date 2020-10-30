@@ -48,3 +48,5 @@ console.log(person.name, person.age);
 
 let {name, age, country} = person;
 console.log(name, age, country);
+
+// operador de propagación
